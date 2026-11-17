@@ -1,4 +1,4 @@
 {
-  "version": "2.1.7",
-  "releaseNotes": "Fixed container photo capture and added the required in-app location/camera disclosure."
+  "version": "2.1.8-test",
+  "releaseNotes": "TEST: this value came from the GitHub Pages fallback."
 }
